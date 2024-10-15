@@ -1,5 +1,5 @@
-# What does it mean to be a Vermonter? 🌲 ⛰️
-
+# 🌲 What does it mean to be a Vermonter? ⛰️
+###
 <!--
 **What-makes-a-Vermonter/What-makes-a-Vermonter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
